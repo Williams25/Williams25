@@ -25,10 +25,11 @@
 </p>
 
 ## Contact :iphone:
-
+<p>
     <a href="mailto:william007.gabriel@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:william007.gabriel@gmail.com">
     </a>
+<p>
 
 
 <!--
