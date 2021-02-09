@@ -30,6 +30,8 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:william007.gabriel@gmail.com">
     </a>
 <p>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-gabriel-291a031b4/)](https://www.linkedin.com/in/william-gabriel-291a031b4/)
 
 
 <!--
