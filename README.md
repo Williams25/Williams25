@@ -24,6 +24,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </p>
 
+## Contact :iphone:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-gabriel-291a031b4/)](https://www.linkedin.com/in/william-gabriel-291a031b4/)
 
 <!--
