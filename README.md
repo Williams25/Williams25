@@ -7,7 +7,7 @@
 - 🌱 Graduado em Sistemas para Internet | Fatec taquaritinga.
 - 💙 Interesse: Java, Spring Boot, HTML, CSS e JavaScript.
 
-## Skills :nerd_face:
+## Skills :grin:
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
