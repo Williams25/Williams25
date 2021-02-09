@@ -27,6 +27,10 @@
 ## Contact :iphone:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-gabriel-291a031b4/)](https://www.linkedin.com/in/william-gabriel-291a031b4/)
 
+ <a href="mailto:william007.gabriel@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:william007.gabriel@gmail.com">
+ </a>
+
 <!--
 **Williams25/Williams25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
