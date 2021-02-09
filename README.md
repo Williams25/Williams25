@@ -25,18 +25,11 @@
 </p>
 
 ## Contact :iphone:
-<p align="center">
-    <a href="(mailto:https://github.com/Williams25)">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/Williams25">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
     <a href="mailto:william007.gabriel@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:william007.gabriel@gmail.com">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="(mailto:https://www.linkedin.com/in/william-gabriel-291a031b4/)">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/william-gabriel-291a031b4/">
-</p>
+
 
 <!--
 **Williams25/Williams25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
