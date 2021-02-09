@@ -34,9 +34,8 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:william007.gabriel@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-gabriel-291a031b4/)](https://www.linkedin.com/in/william-gabriel-291a031b4/)
-
+    <a href="(https://www.linkedin.com/in/william-gabriel-291a031b4/)">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com           /in/william-gabriel-291a031b4/">
 </p>
 
 <!--
