@@ -9,7 +9,7 @@
 
 ## Skills :grin:
 <p align="center">
-    <img height="40" src="https://simpleicons.org/icons/java.svg">
+    <img height="40" src="https://simpleicons.org/icons/java.svg" title="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://simpleicons.org/icons/javascript.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
