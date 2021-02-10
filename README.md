@@ -9,23 +9,23 @@
 
 ## Skills :grin:
 <p align="center">
-    <img height="40" src="https://simpleicons.org/icons/java.svg" title="Java">
+    <img height="40" src="https://simpleicons.org/icons/java.svg" title="Java" alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/javascript.svg">
+    <img height="40" src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/html5.svg">
+    <img height="40" src="https://simpleicons.org/icons/html5.svg" title="HTML" alt="HTML">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/css3.svg">
+    <img height="40" src="https://simpleicons.org/icons/css3.svg" title="CSS" alt="CSS">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/react.svg">
+    <img height="40" src="https://simpleicons.org/icons/react.svg" title="React" alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/node-dot-js.svg">
+    <img height="40" src="https://simpleicons.org/icons/node-dot-js.svg" title="Node.js" alt="Node.js">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/mongodb.svg">
+    <img height="40" src="https://simpleicons.org/icons/mongodb.svg" title="MongoDB" alt="MongoDB">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/mysql.svg">
+    <img height="40" src="https://simpleicons.org/icons/mysql.svg" title="Mysql" alt="Mysql">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/git.svg">
+    <img height="40" src="https://simpleicons.org/icons/git.svg" title="Git" alt="Git">
 </p>
 
 ## Contact :iphone:
