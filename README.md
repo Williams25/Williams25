@@ -22,8 +22,6 @@
     <img height="60" src="./assets/node.png" title="Node.js" alt="Node.js">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="60" src="./assets/mongo.png" title="MongoDB" alt="MongoDB">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="./assets/git.png" title="Git" alt="Git">
 </p>
 
 ## Contact :iphone:
