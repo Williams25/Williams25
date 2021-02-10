@@ -1,9 +1,9 @@
-## Hi there 👋, I'm William.
+### Hi there 👋, I'm William.
 
 - :mortar_board: Graduado em Sistemas para Internet | Fatec Taquaritinga.
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React, React Native, Vue.js e Node.js.
 
-## :bar_chart: Github Stats
+### :bar_chart: Github Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Williams25&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
