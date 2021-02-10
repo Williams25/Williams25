@@ -4,10 +4,10 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Williams25&count_private=true&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 Graduado em Sistemas para Internet | Fatec taquaritinga.
+- :mortar_board: Graduado em Sistemas para Internet | Fatec taquaritinga.
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React, React Native, Vue.js e Node.js.
 
-## Skills :grin:
+## Skills :computer:
 <p align="center">
     <img height="60" src="./assets/java.png" title="Java" alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
