@@ -9,23 +9,21 @@
 
 ## Skills :grin:
 <p align="center">
-    <img height="40" src="./assets/java.png" title="Java" alt="Java">
+    <img height="60" src="./assets/java.png" title="Java" alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="./assets/javascript.png" title="JavaScript" alt="JavaScript">
+    <img height="60" src="./assets/javascript.png" title="JavaScript" alt="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="./assets/html5.png" title="HTML" alt="HTML">
+    <img height="60" src="./assets/html.png" title="HTML" alt="HTML">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="./assets/css3.png" title="CSS" alt="CSS">
+    <img height="60" src="./assets/css.png" title="CSS" alt="CSS">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="./assets/react.png" title="React" alt="React">
+    <img height="60" src="./assets/react.png" title="React" alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="./assets/node.png" title="Node.js" alt="Node.js">
+    <img height="60" src="./assets/node.png" title="Node.js" alt="Node.js">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/mongodb.svg" title="MongoDB" alt="MongoDB">
+    <img height="60" src="./assets/mongo.png" title="MongoDB" alt="MongoDB">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/mysql.svg" title="Mysql" alt="Mysql">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="./assets/git.png" title="Git" alt="Git">
+    <img height="60" src="./assets/git.png" title="Git" alt="Git">
 </p>
 
 ## Contact :iphone:
