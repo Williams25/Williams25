@@ -9,23 +9,23 @@
 
 ## Skills :grin:
 <p align="center">
-    <img height="40" src="https://simpleicons.org/icons/java.svg" title="Java" alt="Java">
+    <img height="40" src="./assets/java.png" title="Java" alt="Java">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="JavaScript">
+    <img height="40" src="./assets/javascript.png" title="JavaScript" alt="JavaScript">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/html5.svg" title="HTML" alt="HTML">
+    <img height="40" src="./assets/html5.png" title="HTML" alt="HTML">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/css3.svg" title="CSS" alt="CSS">
+    <img height="40" src="./assets/css3.png" title="CSS" alt="CSS">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/react.svg" title="React" alt="React">
+    <img height="40" src="./assets/react.png" title="React" alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/node-dot-js.svg" title="Node.js" alt="Node.js">
+    <img height="40" src="./assets/node.png" title="Node.js" alt="Node.js">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://simpleicons.org/icons/mongodb.svg" title="MongoDB" alt="MongoDB">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://simpleicons.org/icons/mysql.svg" title="Mysql" alt="Mysql">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://simpleicons.org/icons/git.svg" title="Git" alt="Git">
+    <img height="40" src="./assets/git.png" title="Git" alt="Git">
 </p>
 
 ## Contact :iphone:
