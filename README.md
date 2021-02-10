@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 Graduado em Sistemas para Internet | Fatec taquaritinga.
-- 💙 Interesse: Java, Spring Boot, HTML, CSS e JavaScript.
+- 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React, React Native, Vue.js e Node.js.
 
 ## Skills :grin:
 <p align="center">
