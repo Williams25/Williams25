@@ -1,5 +1,7 @@
 ### Hi there, I'm William 👋
-</ hr>
+<p align="center">
+    </ hr>
+</p>
 - :mortar_board: Graduado em Sistemas para Internet | Fatec Taquaritinga.
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React, React Native, Vue.js e Node.js.
 
