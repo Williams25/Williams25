@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm William.
 
-- :mortar_board: Graduado em Sistemas para Internet | Fatec Taquaritinga.
+- :mortar_board: Tecnólogo em Sistemas para Internet | Fatec Taquaritinga.
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React, React Native, Vue.js e Node.js.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Williams25&count_private=true&show_icons=true&theme=tokyonight)
