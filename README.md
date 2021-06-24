@@ -4,7 +4,12 @@
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Vue.js e Node.js.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Williams25&count_private=true&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)
+
+<p style="display: flex; flex-direction: column; gap: 1rem; justify-content: center; align-items: center; margin-top: 1rem;">
+    <img src="https://profile-counter.glitch.me/Williams25/count.svg" width="45%"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Williams25&hide_border=true&background=000000&border=FFFFFF&stroke=FFFFFF&sideNums=00FF00&sideLabels=00FF00&dates=FFFFFF&ring=00FF00&fire=FFFFFF&currStreakNum=00FF00&currStreakLabel=00FF00" alt="Williams25's Streak stats" width="50%"/>
+</p>
 
 ## Skills :computer:
 
