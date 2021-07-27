@@ -2,9 +2,15 @@
 
 - :mortar_board: Tecnólogo em Sistemas para Internet | Fatec Taquaritinga.
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Vue.js e Node.js.
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Williams25&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)
+<p align="center">
+    <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Williams25&theme=tokyonight" alt="motirck" height="200px"
+    />
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7" 
+        height="200px"
+    />
+</p>
 
 ## Skills :computer:
 
@@ -36,6 +42,9 @@
 <!--
 **Williams25/Williams25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Williams25&count_private=true&show_icons=true&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7) -->
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -46,4 +55,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
