@@ -6,6 +6,10 @@
 ![Anurag's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Williams25&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)
 
+<p aling="center">
+    <img src="https://profile-counter.glitch.me/Williams25/count.svg">
+</p>
+
 ## Skills :computer:
 
 <p align="center">
