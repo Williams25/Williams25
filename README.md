@@ -4,7 +4,7 @@
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Vue.js e Node.js.
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Williams25&count_private=true&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Williams25&theme=tokyonight" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
