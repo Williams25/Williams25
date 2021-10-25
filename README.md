@@ -4,8 +4,9 @@
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Vue.js e Node.js.
 
 <p align="center">
-![Anurag's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Williams25&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)
+    <img src="https://github-readme-stats.vercel.app/api?username=Williams25&count_private=true&show_icons=true&theme=tokyonight" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7" />
 </p>
 
 <p align="center">
@@ -46,6 +47,9 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7) -->
 <!--
 Here are some ideas to get you started:
+
+![Anurag's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Williams25&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
