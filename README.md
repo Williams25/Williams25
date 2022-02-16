@@ -9,10 +9,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williams25&layout=compact&theme=tokyonight&langs_count=7" />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<!--
 <p align="center">
     <img src="https://profile-counter.glitch.me/Williams25/count.svg">
-</p>
+</p>-->
 
 ## Skills :computer:
 
