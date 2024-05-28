@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm William.
 
 - :mortar_board: Tecnólogo em Sistemas para Internet | Fatec Taquaritinga.
-- :rocket: Studying MBA Rocketseat Full-stack
+- :rocket: Studying MBA Rocketseat Full-stack.
 - 💙 Interesse: HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Vue.js, Node.js e Python.
 
 <p align="center">
