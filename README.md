@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm William.
 
-- :mortar_board: Tecnólogo em Sistemas para Internet | Fatec Taquaritinga.
+- :mortar_board: Internet Systems Technologist | Fatec Taquaritinga.
 - :rocket: Studying MBA Rocketseat Full-stack.
-- 💙 Interesse: HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Vue.js, Node.js e Python.
+- 💙 Interest: HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Vue.js, Node.js e Python.
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Williams25&theme=tokyonight" />
